@@ -1,5 +1,5 @@
 ﻿
-.站长素材_sc_chinaz_com_ {
+.我们做了什么事_sc_chinaz_com_ {
   background-image: url("站长素材(sc.chinaz.com).png");
   position: absolute;
   left: -867px;
@@ -8,7 +8,7 @@
   height: 2872px;
   z-index: 7;
 }
-.站长素材_sc_chinaz_com_ {
+.我们做了第二件事sc_chinaz_com_ {
   background-image: url("站长素材(sc.chinaz.com).png");
   position: absolute;
   left: -867px;
@@ -17,7 +17,7 @@
   height: 2872px;
   z-index: 7;
 }
-.站长素材_sc_chinaz_com_ {
+.做过的事情_sc_chinaz_com_ {
   background-image: url("站长素材(sc.chinaz.com).png");
   position: absolute;
   left: -867px;
@@ -25,4 +25,6 @@
   width: 7255px;
   height: 2872px;
   z-index: 7;
-}
+}新功能
+
+
